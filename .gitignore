@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+env/
+
+# Django
+*.sqlite3
+
+# Local env vars
+crm/.env
